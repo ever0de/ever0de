@@ -7,8 +7,6 @@ Hi there 👋
 
 </div>
 
-- 개발 아티클 / 채용 정보 공유 [디스코드](https://discord.gg/QnCYxCFy)를 운영하고 있습니다.
-
 <!--
 **ever0de/ever0de** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
