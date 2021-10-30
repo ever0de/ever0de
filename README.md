@@ -7,6 +7,8 @@ Hi there 👋
 
 </div>
 
+- 2021 오픈소스 컨트리뷰션 아카데미 Masters [발표자료](https://docs.google.com/presentation/d/1K8PUuzggpyy8fX16HseF_jQNTmsdvVnZ/edit?usp=sharing&ouid=113582753700427922598&rtpof=true&sd=true)
+
 <!--
 **ever0de/ever0de** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
