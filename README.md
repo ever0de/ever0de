@@ -1,5 +1,7 @@
 <div align=center>
-Hi there 👋
+I am a Rust & Typescript developer
+
+I am working as a collaborator on `GlueSQL`
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2ever0de)](https://hits.seeyoufarm.com)
 
