@@ -1,15 +1,12 @@
-<div align=center>
 I am a Rust & Typescript developer
 
 I am working as a collaborator on `GlueSQL`
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2ever0de)](https://hits.seeyoufarm.com)
+[![ever0de's github activity graph](https://activity-graph.herokuapp.com/graph?username=ever0de)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ![Jiseok's GitHub stats](https://github-readme-stats.vercel.app/api?username=ever0de&count_private=true&show_icons=true&theme=vision-friendly-dark)
 
-2021 오픈소스 컨트리뷰션 아카데미 최우수상 [[발표자료](https://docs.google.com/presentation/d/1K8PUuzggpyy8fX16HseF_jQNTmsdvVnZ/edit?usp=sharing&ouid=113582753700427922598&rtpof=true&sd=true)]
-
-</div>
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2ever0de)](https://hits.seeyoufarm.com)
 
 <!--
 **ever0de/ever0de** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
