@@ -1,4 +1,4 @@
-I am a Rust & Typescript developer
+I am a developer using Rust and Typescript.
 
 I am working as a collaborator on `GlueSQL`
 
