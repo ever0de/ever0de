@@ -1,10 +1,3 @@
-I am a developer using Rust and Typescript.
-
-I am working as a collaborator on `GlueSQL`
-
-![Jiseok's GitHub stats](https://github-readme-stats.vercel.app/api?username=ever0de&count_private=true&show_icons=true&theme=vision-friendly-dark)
-
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2ever0de)](https://hits.seeyoufarm.com)
 
 <!--
 **ever0de/ever0de** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
